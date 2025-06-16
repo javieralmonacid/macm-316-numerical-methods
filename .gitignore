@@ -3,6 +3,8 @@
 
 # Unofficial tests
 javi_test.m
+demo_linear_quadratic.m
+demo_newton_2d.m
 
 # Outputs
 *.eps
