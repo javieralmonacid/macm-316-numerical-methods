@@ -1,2 +1,8 @@
+# Autosave Matlab
+*.asv
+
 # Unofficial tests
 javi_test.m
+
+# Outputs
+*.eps

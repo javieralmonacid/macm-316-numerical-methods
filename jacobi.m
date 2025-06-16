@@ -37,7 +37,7 @@ while iter < max_iter
         xall = [xall x];
     end
     % Convergence criterion
-    if norm(x - x0, 'inf') / norm(x0) < tol
+    if norm(x - x0, 'inf') / norm(x0, 'inf') < tol
         break;
     end
     % Store new iterate
